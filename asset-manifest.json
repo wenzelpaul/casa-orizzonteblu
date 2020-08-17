@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/casa-orizzonteblu/static/css/main.5f361e03.chunk.css",
+    "main.js": "/casa-orizzonteblu/static/js/main.e3b89abe.chunk.js",
+    "main.js.map": "/casa-orizzonteblu/static/js/main.e3b89abe.chunk.js.map",
+    "runtime-main.js": "/casa-orizzonteblu/static/js/runtime-main.9f39b9cd.js",
+    "runtime-main.js.map": "/casa-orizzonteblu/static/js/runtime-main.9f39b9cd.js.map",
+    "static/js/2.c03a9fc2.chunk.js": "/casa-orizzonteblu/static/js/2.c03a9fc2.chunk.js",
+    "static/js/2.c03a9fc2.chunk.js.map": "/casa-orizzonteblu/static/js/2.c03a9fc2.chunk.js.map",
+    "index.html": "/casa-orizzonteblu/index.html",
+    "precache-manifest.06e9f83fb8ae847e78bb30835adaa270.js": "/casa-orizzonteblu/precache-manifest.06e9f83fb8ae847e78bb30835adaa270.js",
+    "service-worker.js": "/casa-orizzonteblu/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/casa-orizzonteblu/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c03a9fc2.chunk.js.LICENSE.txt": "/casa-orizzonteblu/static/js/2.c03a9fc2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/casa-orizzonteblu/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f39b9cd.js",
+    "static/js/2.c03a9fc2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e3b89abe.chunk.js"
+  ]
+}
