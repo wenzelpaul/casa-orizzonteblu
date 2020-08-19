@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/casa-orizzonteblu/static/css/main.159d192d.chunk.css",
-    "main.js": "/casa-orizzonteblu/static/js/main.093518a4.chunk.js",
-    "main.js.map": "/casa-orizzonteblu/static/js/main.093518a4.chunk.js.map",
+    "main.js": "/casa-orizzonteblu/static/js/main.9cc9ef5d.chunk.js",
+    "main.js.map": "/casa-orizzonteblu/static/js/main.9cc9ef5d.chunk.js.map",
     "runtime-main.js": "/casa-orizzonteblu/static/js/runtime-main.9f39b9cd.js",
     "runtime-main.js.map": "/casa-orizzonteblu/static/js/runtime-main.9f39b9cd.js.map",
     "static/js/2.c74f254a.chunk.js": "/casa-orizzonteblu/static/js/2.c74f254a.chunk.js",
     "static/js/2.c74f254a.chunk.js.map": "/casa-orizzonteblu/static/js/2.c74f254a.chunk.js.map",
     "index.html": "/casa-orizzonteblu/index.html",
-    "precache-manifest.220aba34d032f898b16c64491e77ecd4.js": "/casa-orizzonteblu/precache-manifest.220aba34d032f898b16c64491e77ecd4.js",
+    "precache-manifest.21ad68485bcb9da7810a64f6eedd0984.js": "/casa-orizzonteblu/precache-manifest.21ad68485bcb9da7810a64f6eedd0984.js",
     "service-worker.js": "/casa-orizzonteblu/service-worker.js",
     "static/css/main.159d192d.chunk.css.map": "/casa-orizzonteblu/static/css/main.159d192d.chunk.css.map",
     "static/js/2.c74f254a.chunk.js.LICENSE.txt": "/casa-orizzonteblu/static/js/2.c74f254a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9f39b9cd.js",
     "static/js/2.c74f254a.chunk.js",
     "static/css/main.159d192d.chunk.css",
-    "static/js/main.093518a4.chunk.js"
+    "static/js/main.9cc9ef5d.chunk.js"
   ]
 }
