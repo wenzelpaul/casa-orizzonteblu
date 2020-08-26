@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "564cba1284947c2c1f0a42d1001e7ada",
+    "revision": "0b2dcf2cf46ef68f6f2339123d4a351b",
     "url": "/casa-orizzonteblu/index.html"
   },
   {
-    "revision": "e006f7a626017b7c18ad",
+    "revision": "dfda822c0644194e8d5c",
     "url": "/casa-orizzonteblu/static/css/main.8548c86b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/casa-orizzonteblu/static/js/2.e7d65e26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e006f7a626017b7c18ad",
-    "url": "/casa-orizzonteblu/static/js/main.76b8bc9a.chunk.js"
+    "revision": "dfda822c0644194e8d5c",
+    "url": "/casa-orizzonteblu/static/js/main.5e2e0ba9.chunk.js"
   },
   {
     "revision": "9011062fd1e911a760d1",
