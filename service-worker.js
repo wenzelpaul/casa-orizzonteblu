@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/casa-orizzonteblu/precache-manifest.13872e26c5d08cd1dd7c11af5b082f19.js"
+  "/casa-orizzonteblu/precache-manifest.f74fbc10db478aecfadd8615c703a508.js"
 );
 
 self.addEventListener('message', (event) => {
