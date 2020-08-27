@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProgressBar from './ProgressBar';
-import { firebase } from '../firebase/config'
+import { app } from '../firebase/Config'
 
 const UploadForm = () => {
   const [file, setFile] = useState(null);
@@ -10,7 +10,7 @@ const UploadForm = () => {
 
   const handleChange = (e) => {
     let selected = e.target.files[0];
-    var user = firebase.auth().currentUser;
+    var user = app.auth().currentUser;
     if (user) {
       if (user && selected && types.includes(selected.type)) {
         setFile(selected);

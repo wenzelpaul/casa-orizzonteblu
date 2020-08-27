@@ -1,9 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { Button, Modal, Form } from 'react-bootstrap';
-import { firebase } from '../firebase/config';
+import { app } from '../firebase/Config';
+import { AuthContext } from '../firebase/Auth';
 
 
 function LoginModal() {
+  const {currentUser} = useContext(AuthContext);
   const [isLoggedIn, setLoggedIn] = useState(false);
 
   useEffect(() => {
@@ -19,7 +21,7 @@ function LoginModal() {
 
   const handleClose = () => setShow(false);
   const handleShow = () => {
-    let auth = firebase.auth();
+    let auth = app.auth();
     if (isLoggedIn2(auth)) {
       let user = auth.currentUser;
       console.log(user.email);
@@ -53,7 +55,7 @@ function LoginModal() {
 
   const handleLogin = () => {
     handleClose();
-    firebase.auth().signInWithEmailAndPassword(email, password).then(function () {
+    app.auth().signInWithEmailAndPassword(email, password).then(function () {
       setLoggedIn(true);
       alert('Erfolgreich eingeloggt');
     })
@@ -66,7 +68,7 @@ function LoginModal() {
   return (
     <>
       <Button variant="outline-primary" onClick={handleShow}>
-        {isLoggedIn ? 'Logout' : 'Login'}
+        {currentUser ? 'Logout' : 'Login'}
       </Button>
       <Modal show={show} onHide={handleClose}>
         <Modal.Body>
