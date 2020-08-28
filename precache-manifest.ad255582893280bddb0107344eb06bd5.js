@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fbd23951769611186936d9d6201a8df",
+    "revision": "745e940dc01254ef8ff5a2f77a69b52f",
     "url": "/casa-orizzonteblu/index.html"
   },
   {
-    "revision": "fc6886fa681e3d8cbccd",
+    "revision": "9d466d3f145e1c38b81d",
     "url": "/casa-orizzonteblu/static/css/main.8548c86b.chunk.css"
   },
   {
-    "revision": "beb0e965c95f3a8ce8b9",
-    "url": "/casa-orizzonteblu/static/js/2.7863c214.chunk.js"
+    "revision": "ce9999c5d425bfc3a9a6",
+    "url": "/casa-orizzonteblu/static/js/2.f92cb0ad.chunk.js"
   },
   {
     "revision": "7bfaa32b315fe466d84ab2ae49052d17",
-    "url": "/casa-orizzonteblu/static/js/2.7863c214.chunk.js.LICENSE.txt"
+    "url": "/casa-orizzonteblu/static/js/2.f92cb0ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc6886fa681e3d8cbccd",
-    "url": "/casa-orizzonteblu/static/js/main.831b9fc5.chunk.js"
+    "revision": "9d466d3f145e1c38b81d",
+    "url": "/casa-orizzonteblu/static/js/main.f21e5501.chunk.js"
   },
   {
     "revision": "9011062fd1e911a760d1",
